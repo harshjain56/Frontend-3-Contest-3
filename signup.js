@@ -134,7 +134,7 @@ function renderingProfilePage(){
     
 
     let link=document.createElement("a")
-    link.href="http://127.0.0.1:5500/profile.html"
+    link.href="https://harshjain56.github.io/Frontend-3-Contest-3/profile.html"
     link.click()
 
 }
@@ -152,7 +152,7 @@ function movingtoProfilepage(){
     if(retrievedData!==null){
 
         let link=document.createElement("a")
-        link.href="http://127.0.0.1:5500/profile.html"
+        link.href="https://harshjain56.github.io/Frontend-3-Contest-3/profile.html"
         link.click()
 
     }
