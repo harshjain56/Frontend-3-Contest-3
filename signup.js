@@ -139,12 +139,7 @@ function renderingProfilePage(){
 
 }
 
-function renderingData(){
- let retrievedData=localStorage.getItem("userDeatils")
- let userDetails=JSON.parse(retrievedData)
-  console.log(userDetails)
-   
-}
+
 
 
 function movingtoProfilepage(){
