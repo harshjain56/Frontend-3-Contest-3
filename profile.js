@@ -3,7 +3,7 @@ let logoutBtn=document.getElementById("logoutBtn")
 logoutBtn.addEventListener("click", ()=>{
     localStorage.clear()
     let link=document.createElement("a")
-    link.href="http://127.0.0.1:5500/index.html"
+    link.href="https://harshjain56.github.io/Frontend-3-Contest-3/"
     link.click()
 })
 
